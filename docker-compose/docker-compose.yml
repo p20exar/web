@@ -5,7 +5,7 @@ services:
     container_name: di_inter_tech_mysql
     environment:
       - MYSQL_HOST=
-      - MYSQL_DATABASE=di_internet_technologies_project
+      - MYSQL_DATABASE=trello
       - MYSQL_USER=webuser
       - MYSQL_PASSWORD=webpass
       - MYSQL_ROOT_PASSWORD=rootpass
